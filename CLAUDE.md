@@ -134,7 +134,7 @@ on them:
 
 ## Git / PR workflow
 
-- Active development branch: `claude/claude-md-docs-vHSXq`. Develop, commit, and
-  push there; do not push to `main` without explicit permission.
+- Always develop on a feature branch. Develop, commit, and push there; do not push
+  directly to `main` without explicit permission.
 - Push with `git push -u origin <branch>` and open a **draft** PR after pushing if
   one does not already exist.
