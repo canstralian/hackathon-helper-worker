@@ -17,7 +17,7 @@ is at https://developers.cloudflare.com/workers-ai/models/.
 
 ## Repository layout
 
-```
+```text
 .
 ├── README.md            # Index of all starters + resource links
 ├── agenda.md            # Hackathon presentation agenda (not code)
